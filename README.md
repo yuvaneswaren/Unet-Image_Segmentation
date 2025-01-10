@@ -1,0 +1,2 @@
+# UNet: A PyTorch Implementation for Image Segmentation
+This repository contains a PyTorch implementation of a UNet-based neural network for image segmentation tasks. The architecture is designed with an encoder-decoder structure, where the encoder captures spatial information, and the decoder reconstructs the segmentation map. This implementation is flexible and allows customization for various input sizes and segmentation needs.
